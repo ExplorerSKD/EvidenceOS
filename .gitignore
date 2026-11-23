@@ -1,0 +1,43 @@
+# Environment / Virtual Environment
+env/
+venv/
+.venv/
+ENV/
+.env
+.env.*
+*.env
+.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+*tatva_local.db
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Secret files
+*.pem
+*.key
+*.crt
+secrets.txt
+current_state.md
+backend_databases_overview.md
